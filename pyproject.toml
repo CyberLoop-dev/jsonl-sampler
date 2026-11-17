@@ -1,0 +1,6 @@
+[project]
+name = "jsonl-sampler"
+version = "1.0.0"
+description = "Select reproducible random samples from large JSONL files."
+requires-python = ">=3.10"
+dependencies = []
